@@ -13,5 +13,5 @@
 
 ## 📫 Contact Me
 
-- [Email](jan.marxen@gmail.com)
+- E-Mail: jan.marxen@gmail.com
 - [LinkedIn](linkedin.com/in/jan-esquível-marxen-730a051a4/)
