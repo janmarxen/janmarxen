@@ -11,10 +11,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janmarxen&layout=compact&theme=radical)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janmarxen&theme=radical)
-
 ## 📫 Contact Me
 
 - [Email](jan.marxen@gmail.com)
